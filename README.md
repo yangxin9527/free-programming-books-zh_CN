@@ -1,29 +1,18 @@
 免费的编程中文书籍索引
 ============================
+#### forked from justjavac/free-programming-books-zh_CN
+#####当做闲时的阅读指南，顺便把顺序改了一下，方便一点。每看一个标记一个，很舒服
 
-[![](https://img.shields.io/github/issues/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/issues)  [![](https://img.shields.io/github/forks/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/network) [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/stargazers) [![](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN) [![](https://img.shields.io/github/release/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/releases)
-
-免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
 - [stackoverflow](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 - [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
-欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
-
-![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
-
-## 参与交流
-
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
-
-* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
-
-贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
 
 * [语言无关类](#语言无关类)
+  * [Web](#web)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
   * [分布式系统](#分布式系统)
@@ -39,7 +28,6 @@
   * [管理和监控](#管理和监控)
   * [项目相关](#项目相关)
   * [设计模式](#设计模式)
-  * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   * [其它](#其它)
@@ -79,6 +67,39 @@
 
 * [读书笔记及其它](#读书笔记及其它)
 * [测试相关](#测试相关)
+
+
+
+
+### Web
+
+* ``[关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) ``
+* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+* [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+* [Grunt中文文档](http://www.gruntjs.net/)
+* [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
+* [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
+* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
+* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
+* [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+* [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
+* [w3school教程整理](https://github.com/wizardforcel/w3school)
+* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
+* [一站式学习Wireshark](https://community.emc.com/thread/194901)
+* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
+* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
+* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+* [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
+* [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
 ## 语言无关类
 
@@ -222,35 +243,7 @@
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
 * [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
 
-### Web
 
-* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
-* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
-* [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
-* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
-* [Grunt中文文档](http://www.gruntjs.net/)
-* [gulp中文文档](http://www.gulpjs.com.cn/docs/)
-* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
-* [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
-* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
-* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
-* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
-* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
-* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
-* [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
-* [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
-* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
-* [w3school教程整理](https://github.com/wizardforcel/w3school)
-* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
-* [一站式学习Wireshark](https://community.emc.com/thread/194901)
-* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
-* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
-* [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
-* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
-* [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
-* [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
 ### 大数据
 
